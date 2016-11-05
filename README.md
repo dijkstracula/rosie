@@ -1,5 +1,5 @@
 # Rosie
-![Is A Nice Cyber Dog](https://github.com/dijkstracula/rosie/rosie.png)
+![Is A Nice Cyber Dog](https://github.com/dijkstracula/rosie/blob/master/rosie.png)
 
 ## Setting up
 1. Create a new [bot user](https://api.slack.com/bot-users).
